@@ -1,0 +1,100 @@
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.container-fluid{
+  padding: 3% 2%;
+}
+
+.user_tasks{
+  background-color: #96C7C1;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+
+}
+
+
+/* Sections */
+
+.colored-section {
+  background-color: #1597bb;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+
+#title {
+  background-color: #1597bb;
+  color: #fff;
+  text-align: left;
+}
+
+#noncompletedtasks{
+  color: #1597bb;
+  text-align: left;
+}
+
+#noncompletedtasks .container-fluid {
+  padding: 2% 5% 2% 5%;
+}
+
+#completedtasks{
+  color: #1597bb;
+  text-align: left;
+}
+
+#completedtasks .container-fluid {
+  padding: 2% 5% 2% 5%;
+}
+
+
+#title .container-fluid {
+  padding: 2% 5% 2% 5%;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+  padding: 0 0 6rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+
+
+
+.task_detais{
+  text-align: left;
+
+}
